@@ -1,0 +1,16 @@
+New log file opened at Wed May 04 20:58:35 PDT 2016 by 6404@tsundere
+Taking next connection to: 60065
+New client attempting to connect on port: 60066-60065
+  Address = /192.168.56.1:60065
+This client on port 60066 has uuid 4e1b7c12-7218-46a7-a4b9-d43da997b515 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-4e1b7c12-7218-46a7-a4b9-d43da997b515
+Taking next connection to: 60065
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60065
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60065
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60065
